@@ -9,4 +9,5 @@ The jupyter notebooks here download or contain models that I already trained so 
 ## Folders
 
 - image_captioning - encoder/decoder with attention for generating captions from images. 
+- text_generation - Keras LSTM model for generating text.
 
